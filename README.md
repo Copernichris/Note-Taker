@@ -9,3 +9,6 @@ Run npm install. npm install uuid may need to be run manually if an error occurs
 - Note title and description can be added and saved
 - Previous notes can be viewed or deleted
 
+![homepage](http://url/to/img.png)
+![createNote](http://url/to/img.png)
+![deleteNote](http://url/to/img.png)
